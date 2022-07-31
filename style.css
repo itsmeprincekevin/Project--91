@@ -1,0 +1,40 @@
+#game{
+    text-align:center;
+    font-size:50px;
+    color:#000000
+  ;
+  }
+  
+  #player1{
+    
+    font-size:20px;
+  }
+  
+  #user{
+   
+    font-size:20px;
+  }
+  #user2{
+    font-size:20px;
+  }
+  
+  #player2{
+    font-size:20px;
+  }
+  body
+  {
+      background-color: lightblue;
+    text-align:center;
+  }
+  
+      .login_div1 , .login_div2
+      {
+          background: white;
+          padding: 10px;
+          float: none;
+          border-radius: 15px;
+      }
+  
+  
+  
+  
